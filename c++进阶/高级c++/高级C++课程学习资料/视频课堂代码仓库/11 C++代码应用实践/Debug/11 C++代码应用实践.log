@@ -1,0 +1,7 @@
+﻿男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall CMan::GetID(void)" (?GetID@CMan@@QAEHXZ)，该符号在函数 "void __cdecl CalFemaleCountFromMale(void)" (?CalFemaleCountFromMale@@YAXXZ) 中被引用
+男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall CMan::GetOtherID(int)" (?GetOtherID@CMan@@QAEHH@Z)，该符号在函数 "void __cdecl CalFemaleCountFromMale(void)" (?CalFemaleCountFromMale@@YAXXZ) 中被引用
+男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: int __thiscall CMan::GetChoiceNumber(void)" (?GetChoiceNumber@CMan@@QAEHXZ)，该符号在函数 "void __cdecl FindMaleMatchFemal(void)" (?FindMaleMatchFemal@@YAXXZ) 中被引用
+男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: class std::vector<struct _WANT_CHOICE,class std::allocator<struct _WANT_CHOICE> > & __thiscall CMan::GetChoiceVector(void)" (?GetChoiceVector@CMan@@QAEAAV?$vector@U_WANT_CHOICE@@V?$allocator@U_WANT_CHOICE@@@std@@@std@@XZ)，该符号在函数 "void __cdecl FindMaleMatchFemal(void)" (?FindMaleMatchFemal@@YAXXZ) 中被引用
+男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall CMan::AddVector(struct _WANT_CHOICE)" (?AddVector@CMan@@QAEXU_WANT_CHOICE@@@Z)，该符号在函数 "void __cdecl CalFemaleCountFromMale(void)" (?CalFemaleCountFromMale@@YAXXZ) 中被引用
+男女匹配.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall CMan::ClearVector(void)" (?ClearVector@CMan@@QAEXXZ)，该符号在函数 "void __cdecl ClearManChoiceInfo(void)" (?ClearManChoiceInfo@@YAXXZ) 中被引用
+D:\代码\CPP Code\视频课堂代码仓库\Debug\11 C++代码应用实践.exe : fatal error LNK1120: 6 个无法解析的外部命令
