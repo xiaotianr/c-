@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  06 C++ STL.cpp
-  函数对象.cpp
-  泛型算法.cpp
-  迭代器.cpp
-  正在生成代码...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
-D:\代码\CPP Code\视频课堂代码仓库\Debug\06 C++ STL.exe : fatal error LNK1120: 1 个无法解析的外部命令
